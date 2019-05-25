@@ -1,0 +1,12 @@
+{
+  "ninjas": [
+    {
+      "name": "Hiro",
+      "age": 15
+    },
+    {
+      "name": "Hanzo",
+      "age": 35
+    }
+  ]
+}
