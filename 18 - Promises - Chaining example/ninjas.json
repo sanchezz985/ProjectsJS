@@ -1,0 +1,14 @@
+{
+  "ninjas": [
+    {
+      "name": "Hiro",
+      "age": 15,
+      "missionsUrl": "missions.json"
+    },
+    {
+      "name": "Hanzo",
+      "age": 35,
+      "missionsUrl": "missions.json"
+    }
+  ]
+}

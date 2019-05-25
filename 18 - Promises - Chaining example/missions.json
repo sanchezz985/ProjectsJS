@@ -1,0 +1,12 @@
+{
+  "missions": [
+    {
+      "name": "mission1",
+      "detailsUrl": "details.json"
+    },
+    {
+      "name": "mission2",
+      "detailsUrl": "details.json"
+    }
+  ]
+}
